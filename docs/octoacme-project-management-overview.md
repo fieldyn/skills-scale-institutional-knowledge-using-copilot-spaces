@@ -18,7 +18,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Technical Lead / Engineering Lead: provides architecture and technical delivery guidance.
+- Operations / Release Manager: coordinates release readiness and deployment execution.
+- Security / Compliance Reviewer: validates controls and risk posture.
+- Support / Customer Success: represents customer impact and post-release feedback.
 - Stakeholders: provide inputs and approvals.
+
+For complete role definitions, see [Roles and Personas](./octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
